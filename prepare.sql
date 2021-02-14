@@ -1,6 +1,6 @@
--- CREATE DATABASE fly;
--- CREATE DATABASE hotel;
--- CREATE DATABASE account;
+CREATE DATABASE fly;
+CREATE DATABASE hotel;
+CREATE DATABASE account;
 
 \c fly;
 
